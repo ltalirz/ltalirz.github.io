@@ -9,7 +9,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title} - Talks`}
+      title={`Talks`}
 >
       <main>
         <div className="container">
