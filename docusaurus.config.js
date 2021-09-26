@@ -1,18 +1,22 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const repoName = 'ltalirz.github.io';
+const repoUrl = `https://github.com/ltalirz/${repoName}`;
+const homePageURL = 'https://ltalirz.github.io';
+
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'Leopold Talirz',
   tagline: 'Computational Materials Scientist',
-  url: 'https://ltalirz.github.io',
+  url: homePageURL,
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ltalirz', // Usually your GitHub org/user name.
-  projectName: 'ltalirz.github.io', // Usually your repo name.
+  projectName: repoName, // Usually your repo name.
 
   presets: [
     [
@@ -28,7 +32,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/ltalirz/ltalirz.github.io/edit/main/website/blog/',
+            repoUrl + '/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -51,12 +55,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           { to: "talks/", label: "Talks", position: "left" },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/ltalirz/ltalirz.github.io',
-            label: 'Source',
-            position: 'right',
-          },
-          {
-            href: "https://drive.google.com/file/d/0B7lz1BqbSo58aHY4X004VDNObDA/view?resourcekey=0-nkoC7Sk1isZb0Hpffo3vQg",
+            href: "https://drive.google.com/file/d/1pHJydcaijzC3NMDQpE_3Hh9zSorglciV/view?usp=sharing",
             label: "CV",
             position: "right",
           },
@@ -101,6 +100,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
             ],
           },
+          {
+            title: 'Miscellaneous',
+            items: [
+              {
+                href: repoUrl,
+                label: 'PageSource',
+                position: 'right',
+              },
+            ],
+          },
+
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Leopold Talirz. Built with Docusaurus.`,
       },
