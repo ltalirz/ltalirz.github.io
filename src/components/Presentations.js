@@ -15,7 +15,7 @@ const PresentationList = [
   },
   {
     title: 'The AiiDA Ecosystem for Computational Materials Science',
-    src: 'aiida-ecosystem.png',
+    src: 'aiida-ecosystem.jpeg',
     href: 'https://drive.google.com/open?id=1YtS0kEAua3Fljk7dfkJYA896kDeD7OLb',
     description: (
       <>
@@ -25,7 +25,7 @@ const PresentationList = [
   },
   {
     title: 'The AiiDA Lab Ecosystem',
-    src: 'aiida-lab-ecosystem.png',
+    src: 'aiida-lab-ecosystem.jpeg',
     href: 'https://drive.google.com/open?id=1NwF5rf5nzw5vSduq03JlSlUgaMwv5aYl',
     video: 'http://indico.ictp.it/event/8004/session/117/contribution/243/material/video/',
     description: (
