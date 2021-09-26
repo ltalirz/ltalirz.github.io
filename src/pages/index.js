@@ -35,8 +35,8 @@ export default function Home() {
         {/* <HomepageFeatures /> */}
         <div className="container">
           <div className="row padding-vert--md">
-            <div className="col col--8"><About /></div>
-            <div className="col col--4"><img src="img/about.jpg" className='about-img' /></div>
+            <div className="col col--9"><About /></div>
+            <div className="col col--3"><img src="img/about.jpg" className='about-img' /></div>
           </div>
         </div>
       </main>
