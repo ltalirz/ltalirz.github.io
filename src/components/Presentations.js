@@ -40,7 +40,8 @@ const PresentationList = [
     href: 'https://drive.google.com/open?id=1WsrtcEPclgNjWNm195ItLz1XGwlLzVUP',
     description: (
       <>
-        Presented on January 31st, 2018 at the <a href='http://indico.ictp.it/event/8004/overview'>MaX Conference on the Materials Design Ecosystem at the Exascale</a>. See also the video recording.
+        Presented on January 31st, 2018 at the <a href='http://indico.ictp.it/event/8004/overview'>MaX Conference on the Materials Design Ecosystem at the Exascale</a>. 
+        See also the <a href='http://indico.ictp.it/event/8004/session/117/contribution/243/material/video/'>video recording</a>.
       </>
     ),
   },

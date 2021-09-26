@@ -48,7 +48,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         items: [
           // { to: "projects/", label: "Projects", position: "left" },
-          { to: "presentations/", label: "Presentations", position: "left" },
+          { to: "talks/", label: "Talks", position: "left" },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/ltalirz/ltalirz.github.io',
