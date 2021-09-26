@@ -26,9 +26,3 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
-
-.grid-container {
-  display: grid;
-  grid-column-gap: 50px;
-  grid-template-columns: 60% 40%;
-}
