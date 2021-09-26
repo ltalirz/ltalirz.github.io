@@ -50,6 +50,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           // { to: "projects/", label: "Projects", position: "left" },
           { to: "presentations/", label: "Presentations", position: "left" },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/contact', label: 'Contact', position: 'left'},
           {
             href: 'https://github.com/ltalirz/ltalirz.github.io',
             label: 'Source',
@@ -64,44 +65,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Contact',
-            items: [
-              {
-                label: 'Email',
-                href: 'mailto:leopold.talirz@gmail.com',
-              },
-              {
-                label: 'LinkedIn',
-                href: 'https://www.linkedin.com/in/leopold-talirz-85a4937a/',
-              },
-
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/ltalirz',
-              },
-            ],
-          },
-          {
-            title: 'Profiles',
-            items: [
-              {
-                label: 'Google Scholar',
-                href: 'https://scholar.google.ch/citations?user=iTS-CHwAAAAJ',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/ltalirz',
-              },
-
-              {
-                label: 'Stack Exchange',
-                href: 'https://mattermodeling.stackexchange.com/users/873/leopold-talirz',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Leopold Talirz. Built with Docusaurus.`,
       },
       prism: {
