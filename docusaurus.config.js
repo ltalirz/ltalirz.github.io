@@ -53,7 +53,7 @@ const homePageURL = 'https://ltalirz.github.io';
         items: [
           // { to: "projects/", label: "Projects", position: "left" },
           { to: "talks/", label: "Talks", position: "left" },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: "https://drive.google.com/file/d/1pHJydcaijzC3NMDQpE_3Hh9zSorglciV/view?usp=sharing",
             label: "CV",

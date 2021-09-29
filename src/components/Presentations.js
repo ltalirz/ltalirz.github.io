@@ -4,6 +4,16 @@ import styles from './HomepageFeatures.module.css';
 
 const PresentationList = [
   {
+    title: 'The AiiDA ecosystem for materials modelling - Managing workflows on HPC systems from the cloud',
+    src: 'sos24.jpeg',
+    href: 'https://drive.google.com/file/d/1MHHBXduKncb6SCKEivNYlirCM_U_ZC8k/view?usp=sharing',
+    description: (
+      <>
+        Presented on March 18th, 2021 at the <a href='https://sos24.cscs.ch/session/the-aiida-ecosystem-for-materials-modelling-managing-workflows-on-hpc-systems-from-the-cloud/'>SOS24 workshop</a> on the topic "Will HPC survive the cloud and in what form?".
+      </>
+    ),
+  },
+  {
     title: 'AiiDA and the web',
     src: 'aiida-and-the-web.png',
     href: 'https://drive.google.com/open?id=1NydPXz6Oz9t5A8Se9UJhRBvInwEBhtEY',
@@ -20,6 +30,16 @@ const PresentationList = [
     description: (
       <>
         Presented on November 20th, 2019 at the <a href='https://galligroup.uchicago.edu/'>Galli group</a> at the University of Chicago (40 minutes).
+      </>
+    ),
+  },
+  {
+    title: 'The AiiDA Plugin Ecosystem',
+    src: 'aiida-plugins.jpeg',
+    href: 'https://www.youtube.com/watch?v=wQx0eRfBSzM&list=PL19kfLn4sO_-QtPaHAA8KByFluT2vvlG0&index=8',
+    description: (
+      <>
+        Introduction to AiiDA plugin development, presented on May 22nd, 2019 at the <a href='https://aiida-tutorials.readthedocs.io/en/latest/pages/2019_MARVEL_Psik_MaX/index.html'>AiiDA tutorial on writing reproducible workflows for computational materials science</a> at EPFL.
       </>
     ),
   },
