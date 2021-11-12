@@ -1,8 +1,5 @@
 import React from 'react';
-import clsx from 'clsx';
-import styles from './HomepageFeatures.module.css';
-
-const PresentationList = [
+const TALKS = [
   {
     title: 'conda and conda-forge for users and maintainers',
     src: 'conda.jpeg',
@@ -105,33 +102,6 @@ const PresentationList = [
       </>
     ),
   },
-
 ];
 
-function Presentation({title, src, href, description}) {
-  return (
-    <div className={clsx('col col--6')}>
-      <div className="text--center">
-        <a href={href} title={title} target='_blank'><img src={'../img/presentations/' + src} className={styles.featureSvg} alt={title} /></a>
-      </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
-      </div>
-    </div>
-  );
-}
-
-export default function Presentations() {
-  return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {PresentationList.map((props, idx) => (
-            <Presentation key={idx} {...props} />
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
+export default TALKS;

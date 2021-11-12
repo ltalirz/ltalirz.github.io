@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Presentations from '../components/Presentations';
+import Talks from '../components/Talks';
 
 
 
@@ -13,7 +13,7 @@ export default function Home() {
 >
       <main>
         <div className="container">
-        <Presentations /> 
+        <Talks /> 
         </div>
       </main>
     </Layout>

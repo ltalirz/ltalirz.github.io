@@ -51,8 +51,9 @@ const homePageURL = 'https://ltalirz.github.io';
           src: 'img/logo.jpeg',
         },
         items: [
-          // { to: "projects/", label: "Projects", position: "left" },
+          { to: "projects/", label: "Projects", position: "left" },
           { to: "talks/", label: "Talks", position: "left" },
+          { to: "https://scholar.google.ch/citations?user=iTS-CHwAAAAJ", label: "Publications", position: "left" },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: "https://drive.google.com/file/d/1pHJydcaijzC3NMDQpE_3Hh9zSorglciV/view?usp=sharing",
