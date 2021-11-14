@@ -4,6 +4,16 @@ import styles from './HomepageFeatures.module.css';
 
 const PresentationList = [
   {
+    title: 'conda and conda-forge for users and maintainers',
+    src: 'conda.jpeg',
+    href: 'https://drive.google.com/file/d/16nEhYEIFluGp_FmSxwDbuuIjV-VL814S/view?usp=sharing',
+    description: (
+      <>
+        Presented on November 14th, 2021 at the <a href='https://trex-coe.eu/events/trex-build-system-hackathon-8-12-nov-2021'>TREX build system hackathon</a>.
+      </>
+    ),
+  },
+  {
     title: 'The AiiDA ecosystem for materials modelling - Managing workflows on HPC systems from the cloud',
     src: 'sos24.jpeg',
     href: 'https://drive.google.com/file/d/1MHHBXduKncb6SCKEivNYlirCM_U_ZC8k/view?usp=sharing',
