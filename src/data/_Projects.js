@@ -182,15 +182,15 @@ const PROJECTS = [
           introducing long and unnecessary delays.
           I was therefore on the lookout for a platform-as-a-service (PaaS) implementation that would allow us to empower developers to manage deployment of their tools by themselves. 
           <a href="https://dokku.com/"> Dokku</a> prizes itself as "the smallest PaaS implementation you've ever seen".
-          After playing around with it I discovered that, indeed, it was just a thin, user-friendly layer on top of docker.
+          After playing around with it I discovered that, indeed, it was a thin, user-friendly layer on top of docker.
           Just what we needed!
         </p>
         <p>
           <a href="https://github.com/josegonzalez">Jose</a>, the dokku guru, had already written an ansible role for dokku - alas, the role was not fully idempotent, had minor issues,
           and no continuous integration tests.
           Since I had plenty of experience in testing ansible roles from the <a href="https://galaxy.ansible.com/marvel-nccr">Quantum Mobile ansible roles</a>,
-          I started by adding tests to the ansible-dokku.
-          Over time, I ended up fixing more and more issues in the role and, with Jose's blessing, took over maintenance of the project.
+          I started by adding tests to ansible-dokku.
+          Over time, I ended up fixing more and more issues in the role and, with Jose's blessing, took over its maintenance.
         </p>
       </>
     ),
