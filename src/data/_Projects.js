@@ -400,6 +400,64 @@ const PROJECTS = [
       },
     ],
   },
+  {
+    category: "Open Source Tool",
+    title: "Moodle plugin for QuestionTeX",
+    slug: "#questiontex",
+    imageUrl: "img/projects/moodle.png",
+    subtitle: "Write multiple-choice tests in LaTeX and import them into the Moodle LMS.",
+    period: "2009 - 2011",
+    tech: "LaTeX, PHP, regular expressions",
+    team: [
+      {
+        name: "Leopold Talirz",
+        link: "https://github.com/ltalirz/",
+      },
+      {
+        name: "Heinz Rasched",
+        link: "https://math.ethz.ch/the-department/people.html?u=raschedh",
+      },
+      {
+        name: "Alexander Caspar",
+        link: "https://math.ethz.ch/utils/search.MTE2MDUy.html?pagetype=people&search=alexander+caspar&language=en&lang_filter=false&site_filter=true",
+      },
+    ],
+    description: (
+      <>
+        <p>
+          Background: Today, university classes in mathematics (and physics, chemistry, etc.) often include multiple-choice tests as one component of evaluating students' progress.
+          Since creating such tests is time consuming, teachers need efficient processes both for writing tests and for reusing questions from previous years.
+          Learning management systems (LMSs) like <a href="https://moodle.org/">Moodle</a> provide web forms for creating such tests and for exporting them to dedicated file formats.
+        </p>
+        <p>
+          <a href="https://github.com/ltalirz/QuestionTeX">QuestionTeX</a> is a macro package that allows writing multiple-choice tests directly as a LaTeX document.
+          The <a href="https://github.com/ltalirz/moodle-qformat_qtex">moodle-qformat_qtex</a> plugin allows importing QuestionTeX tests into Moodle.
+          This approach has several advantages:
+          <ul>
+            <li>Questions are often already available in LaTeX form (e.g. from exercise sheets), requiring minimal effort for the transformation to a multiple-choice test.</li> 
+            <li>Editing questions in a text editor is typically faster than in the web forms.</li>
+            <li>QuestionTeX makes it straightforward to typeset high-quality PDF documents of both the test and its solution.</li>
+            <li>TeX and LaTeX are both widely used and highly stable, thus making LaTeX a safe choice for storing questions for the long term (and without locking oneself into a particular choice of LMS).</li>
+          </ul>
+        </p>
+
+        <p>
+          QuestionTeX and the Moodle plugin were developed as part of the LEMUREN and nemesis projects at the <a href="https://math.ethz.ch/">mathematics department of ETH Zurich</a>.
+          I worked mainly on the Moodle plugin and, besides learning about PHP and being introduced to Python (thanks Heinz!), got sucked into the depths of regular expressions.
+        </p>
+       </>
+    ),
+    links: [
+      {
+        name: "QuestionTeX LaTeX package",
+        link: "https://github.com/ltalirz/QuestionTeX",
+      },
+      {
+        name: "QuestionTeX Moodle plugin",
+        link: "https://github.com/ltalirz/moodle-qformat_qtex",
+      },
+    ],
+  },
 ];
 
 export default PROJECTS;
