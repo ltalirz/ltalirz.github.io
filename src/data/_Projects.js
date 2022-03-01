@@ -11,7 +11,7 @@ const PROJECTS = [
     description: (
       <>
         <p>
-          <a href="atomistic.software">atomistic.software</a> is an attempt at gathering insights into the usage of atomistic simulation software in the scientific community
+          <a href="https://atomistic.software">atomistic.software</a> is an attempt at gathering insights into the usage of atomistic simulation software in the scientific community
           by analyzing citation frequencies on Google Scholar.
         </p>
         <p>
