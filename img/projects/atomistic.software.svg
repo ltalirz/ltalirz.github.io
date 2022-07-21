@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="" fill-opacity="0.0"></rect>
+<text transform="translate(187,318)" font-size="183" style="fill:rgb(64, 144, 197)">Gaussian</text>
+<text transform="translate(56,130)" font-size="157" style="fill:rgb(25, 102, 173)">VASP</text>
+<text transform="translate(252,418)" font-size="117" style="fill:rgb(50, 130, 190)">Gromacs</text>
+<text transform="translate(592,703)" font-size="104" style="fill:rgb(64, 144, 197)">LAMMPS</text>
+<text transform="translate(1,573)" font-size="88" style="fill:rgb(36, 116, 183)">Quantum ESPRESSO</text>
+<text transform="translate(1151,343) rotate(-90)" font-size="80" style="fill:rgb(8, 75, 147)">Amber</text>
+<text transform="translate(120,447) rotate(-90)" font-size="76" style="fill:rgb(99, 168, 211)">CASTEP</text>
+<text transform="translate(230,493)" font-size="71" style="fill:rgb(14, 89, 162)">GROMOS</text>
+<text transform="translate(885,89)" font-size="71" style="fill:rgb(36, 116, 183)">ORCA</text>
+<text transform="translate(912,489)" font-size="66" style="fill:rgb(64, 144, 197)">WIEN2k</text>
+<text transform="translate(586,200)" font-size="65" style="fill:rgb(36, 116, 183)">NAMD</text>
+<text transform="translate(503,750)" font-size="59" style="fill:rgb(25, 102, 173)">Discovery Studio</text>
+<text transform="translate(746,403)" font-size="59" style="fill:rgb(14, 89, 162)">MOE</text>
+<text transform="translate(833,192)" font-size="54" style="fill:rgb(14, 89, 162)">GAMESS</text>
+<text transform="translate(884,527)" font-size="53" style="fill:rgb(8, 61, 127)">SIESTA</text>
+<text transform="translate(152,679)" font-size="52" style="fill:rgb(64, 144, 197)">Desmond</text>
+<text transform="translate(123,726)" font-size="51" style="fill:rgb(50, 130, 190)">Molpro</text>
+<text transform="translate(30,763)" font-size="50" style="fill:rgb(8, 48, 107)">CHARMM</text>
+<text transform="translate(37,475) rotate(-90)" font-size="49" style="fill:rgb(8, 75, 147)">CP2K</text>
+<text transform="translate(1098,704) rotate(-90)" font-size="47" style="fill:rgb(8, 75, 147)">DMol3</text>
+<text transform="translate(220,606)" font-size="45" style="fill:rgb(99, 168, 211)">ADF</text>
+<text transform="translate(1174,751) rotate(-90)" font-size="44" style="fill:rgb(8, 48, 107)">TURBOMOLE</text>
+<text transform="translate(1008,696) rotate(-90)" font-size="43" style="fill:rgb(8, 48, 107)">Q-Chem</text>
+<text transform="translate(632,152) rotate(-90)" font-size="40" style="fill:rgb(8, 75, 147)">YASARA</text>
+<text transform="translate(530,474)" font-size="40" style="fill:rgb(99, 168, 211)">ATK/QuantumATK</text>
+<text transform="translate(383,182)" font-size="40" style="fill:rgb(14, 89, 162)">CRYSTAL</text>
+<text transform="translate(238,163)" font-size="39" style="fill:rgb(14, 89, 162)">OpenMM</text>
+<text transform="translate(695,149) rotate(-90)" font-size="38" style="fill:rgb(99, 168, 211)">ABINIT</text>
+<text transform="translate(453,615)" font-size="38" style="fill:rgb(99, 168, 211)">MacroModel</text>
+<text transform="translate(1184,285) rotate(-90)" font-size="38" style="fill:rgb(81, 156, 204)">Wannier90</text>
+<text transform="translate(439,679)" font-size="38" style="fill:rgb(8, 75, 147)">TINKER</text>
+<text transform="translate(425,750) rotate(-90)" font-size="38" style="fill:rgb(25, 102, 173)">Dalton</text>
+<text transform="translate(760,793)" font-size="35" style="fill:rgb(8, 61, 127)">NWChem</text>
+<text transform="translate(452,152) rotate(-90)" font-size="35" style="fill:rgb(14, 89, 162)">MOPAC</text>
+<text transform="translate(27,615)" font-size="35" style="fill:rgb(25, 102, 173)">Jaguar</text>
+<text transform="translate(716,117)" font-size="34" style="fill:rgb(8, 61, 127)">Hyperchem</text>
+<text transform="translate(138,420)" font-size="34" style="fill:rgb(25, 102, 173)">FEFF</text>
+<text transform="translate(901,784)" font-size="32" style="fill:rgb(8, 75, 147)">Octopus</text>
+<text transform="translate(471,31)" font-size="31" style="fill:rgb(99, 168, 211)">xTB</text>
+<text transform="translate(719,74)" font-size="30" style="fill:rgb(99, 168, 211)">MOLCAS</text>
+<text transform="translate(998,357)" font-size="29" style="fill:rgb(64, 144, 197)">FoldX</text>
+<text transform="translate(1072,759)" font-size="28" style="fill:rgb(8, 61, 127)">Psi4</text>
+<text transform="translate(69,475)" font-size="27" style="fill:rgb(25, 102, 173)">FHI-aims</text>
+<text transform="translate(56,665)" font-size="27" style="fill:rgb(64, 144, 197)">GPAW</text>
+<text transform="translate(517,73)" font-size="27" style="fill:rgb(8, 61, 127)">CFOUR</text>
+<text transform="translate(380,200)" font-size="26" style="fill:rgb(36, 116, 183)">DFTB+</text>
+<text transform="translate(799,32)" font-size="26" style="fill:rgb(36, 116, 183)">GULP</text>
+<text transform="translate(993,384)" font-size="25" style="fill:rgb(25, 102, 173)">DIRAC</text>
+<text transform="translate(324,767)" font-size="24" style="fill:rgb(25, 102, 173)">Firefly</text>
+<text transform="translate(326,786)" font-size="24" style="fill:rgb(81, 156, 204)">PySCF</text>
+<text transform="translate(554,770)" font-size="23" style="fill:rgb(81, 156, 204)">OpenMX</text>
+<text transform="translate(209,639)" font-size="23" style="fill:rgb(50, 130, 190)">RASPA</text>
+<text transform="translate(67,164)" font-size="23" style="fill:rgb(36, 116, 183)">DL_POLY</text>
+<text transform="translate(1028,29)" font-size="21" style="fill:rgb(81, 156, 204)">HOOMD-blue</text>
+<text transform="translate(796,502)" font-size="21" style="fill:rgb(25, 102, 173)">FPLO</text>
+<text transform="translate(466,698)" font-size="21" style="fill:rgb(14, 89, 162)">WHAT IF</text>
+<text transform="translate(460,121)" font-size="21" style="fill:rgb(8, 61, 127)">EPW</text>
+<text transform="translate(716,438)" font-size="20" style="fill:rgb(14, 89, 162)">Elk</text>
+<text transform="translate(833,346)" font-size="20" style="fill:rgb(99, 168, 211)">CPMD</text>
+<text transform="translate(915,402)" font-size="19" style="fill:rgb(36, 116, 183)">OpenMolcas</text>
+<text transform="translate(449,766)" font-size="19" style="fill:rgb(25, 102, 173)">Yambo</text>
+</svg>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[390],{6631:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/scipy","name":"scipy","count":1,"permalink":"/blog/tags/scipy"}')}}]);
