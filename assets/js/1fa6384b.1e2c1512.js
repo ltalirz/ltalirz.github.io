@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[56],{4261:e=>{e.exports=JSON.parse('{"label":"numpy","permalink":"/blog/tags/numpy","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
