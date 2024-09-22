@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[476],{8440:e=>{e.exports=JSON.parse('{"label":"blender","permalink":"/blog/tags/blender","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

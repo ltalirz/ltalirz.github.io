@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[897],{9016:e=>{e.exports=JSON.parse('{"label":"cube","permalink":"/blog/tags/cube","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

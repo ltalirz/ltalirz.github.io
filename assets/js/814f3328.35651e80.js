@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomepage=self.webpackChunkhomepage||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Link numpy & scipy against the MKL","permalink":"/blog/numpy-scipy-mkl","unlisted":false},{"title":"Importing cube files into Blender","permalink":"/blog/cube-files-blender","unlisted":false}]}')}}]);
